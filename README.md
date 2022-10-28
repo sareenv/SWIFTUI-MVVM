@@ -7,4 +7,5 @@ The project developed in SwiftUI supports the MVVM architectural pattern to make
 <li> MVVM architectural pattern </li>
 <li> LazyVGrid & VStack and Buttons </li>
 <li> Uses the JSONDecoder to map the JSON data into the defined models </li>
+<li> DispatchQueue to render the User Interface to the main thread</li>
 
