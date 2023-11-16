@@ -16,7 +16,7 @@ Welcome to our **Projects SwiftUI Application** project! Developed using the ele
 
 ## 📘 How to Use
 
-1. **Clone the Repository**: `git clone https://github.com/your-repo.git`
+1. **Clone the Repository**: `git clone https://github.com/sareenv/SWIFTUI-MVVM`
 2. **Explore and Modify**: Dive into the code and make it your own!
 3. **Run and Test**: See the changes live in action.
 
